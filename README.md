@@ -1,4 +1,4 @@
-<h1>E commarce Website</h1>
+<h1>E commerce Website</h1>
 
 <h3>Coded with HTML,CSS,JAVASCRIPT</h3>
 
